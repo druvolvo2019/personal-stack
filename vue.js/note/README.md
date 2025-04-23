@@ -1,10 +1,3 @@
-# Check out [:notebook: Amb-Notes-NEW](https://github.com/Ambratolm/amb-notes) for a better code redesign and real backend !
-
-# :notebook: Amb-Notes-Old
-
-> Public notes sharing web application. [**View Demo**](https://amb-notes-old.herokuapp.com)
-
-![amb-notes-screenshot](/screenshot.gif?raw=true "Screenshot of the app")
 
 ## Table of contents
 
@@ -41,12 +34,7 @@ This project can be used for learning purposes or as a starter template for buil
 
 1. Clone the repo and Install the dependencies:
 
-```bash
-cd [somewhere]
-git clone https://github.com/Ambratolm/amb-notes.git
-cd amb-notes
-npm i
-```
+
 
 2. Install **JSON Server Auth** globally:
 
