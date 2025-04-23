@@ -42,14 +42,6 @@ This project can be used for learning purposes or as a starter template for buil
 npm i -g json-server-auth
 ```
 
-3. In **package.json** file, Go to `scripts`. In `serve` and `serve-db` scripts, Change the `host` and `port` to your likings. You can replace `app.ambratolm.com` and `db.ambratolm.com` with `localhost` or any localhost aliases you have defined in your system.
-
-```json
-  "scripts": {
-    "serve": "vue-cli-service serve --open --host=app.ambratolm.com --port=2020",
-    "serve-db": "json-server-auth db/db.js --routes=db/routes.json --watch --delay=2000 --host=db.ambratolm.com --port=2021"
-  }
-```
 
 4. Run the app server:
 
