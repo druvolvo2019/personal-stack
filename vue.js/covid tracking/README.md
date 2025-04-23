@@ -1,10 +1,3 @@
-# NAEP COVID APP (naep-covid-app)
-
-NAEP COVID APP
-
-http://naep-cims-dev.s3-website.us-east-2.amazonaws.com
-http://naep-cims-test.s3-website.us-east-2.amazonaws.com
-http://naep-cims-prod.s3-website.us-east-2.amazonaws.com
 
 ## Install the dependencies
 
